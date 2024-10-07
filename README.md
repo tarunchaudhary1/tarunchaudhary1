@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tarun Choudhary
+# Hi there 👋, I am Tarun Choudhary
 
 <p align="center">
     <img width="200" src="https://github.com/tarunchaudhary1/tarunchaudhary1/blob/main/myImg-modified.png?raw=true" alt="Profile Pic" style="border-radius: 100%;"/>
